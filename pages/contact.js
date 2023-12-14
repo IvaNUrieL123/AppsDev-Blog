@@ -6,7 +6,6 @@ const ContactPage = () => {
     background: 'linear-gradient(90deg, rgba(165,233,234,1) 29%, rgba(96,189,158,1) 53%, rgba(69,130,255,1) 88%)',
     padding: '20px',
     color: '#fff',
-    fontFamily: ['Lucida Bright', 'Georgia', 'serif'],
   };
 
   const roundPictureStyles = {

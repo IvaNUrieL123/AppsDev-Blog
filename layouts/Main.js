@@ -3,7 +3,7 @@ import Wrapper from './Wrapper'
 import Nav from 'components/Nav'
 import Footer from 'components/Footer'
 
-export default ({ children, title = 'IGN Blog' }) => (
+export default ({ children, title = 'AppsDev-Blog' }) => (
   <Wrapper>
     <Head>
       <title>{ title }</title>
